@@ -33,3 +33,9 @@ The ESP32 listens, detects frequencies, and reconstructs the text.
 ## 📌 Future Plans
 - Error correction
 - Better
+
+
+
+## 📦 Download APK
+Latest build:
+https://github.com/<your-username>/FreqENC/releases
